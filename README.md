@@ -1,4 +1,16 @@
-##Oi, eu sou o Jefferson 👋, estudante de ADS e apaixonado por tecnologia e resolução de problemas!
+## Oiii, eu sou o Jefferson 👋, estudante de ADS e apaixonado por tecnologia, suporte e resolução de problemas!
+
+## Sobre mim
+
+Estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**.
+
+Tenho experiência profissional com **atendimento L2**, orientação de usuários, diagnóstico inicial de problemas e registro de solicitações em sistemas internos.
+
+Possuo conhecimentos em **Windows, troubleshooting, TCP/IP, DNS, DHCP, Pacote Office e fundamentos de Segurança da Informação**.
+
+Também tenho conhecimentos em desenvolvimento utilizando **Java, JavaScript, HTML, CSS e MySQL**, além de experiência com **Git e GitHub**.
+
+Atualmente busco oportunidade como **Analista de Suporte N1, Help Desk ou Service Desk**, para aplicar meus conhecimentos, desenvolver novas habilidades e crescer profissionalmente na área de Tecnologia da Informação.
 
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Exgrex)](https://github.com/stats-organization/github-stats-extended)
