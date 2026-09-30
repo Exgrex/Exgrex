@@ -14,6 +14,7 @@ Atualmente busco oportunidade como **Analista de Suporte N1, Help Desk ou Servic
 
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Exgrex)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Exgrex&langs_count=4&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Exgrex&langs_count=4&theme=light_github)
 
   
   ##
