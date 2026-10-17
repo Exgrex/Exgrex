@@ -1,4 +1,4 @@
-## Oiii, eu sou o Jefferson 👋, estudante de ADS e apaixonado por tecnologia, suporte e resolução de problemas!
+## Oiii, eu sou o Jefferson, estudante de ADS e apaixonado por tecnologia, suporte e resolução de problemas!
 
 ## Sobre mim
 
